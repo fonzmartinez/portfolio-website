@@ -107,6 +107,13 @@ button:hover, button:focus,
     text-align: center;
 }
 
+.social_media {
+    display: flex;
+    margin: auto;
+    width: 30px;
+    height: 30px;
+}
+
 .page-header {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -304,3 +311,4 @@ button {
     -webkit-animation: 2s expand-circle infinite alternate linear;
             animation: 2s expand-circle infinite alternate linear;
 }
+

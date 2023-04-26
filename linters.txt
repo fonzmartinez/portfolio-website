@@ -1,0 +1,4 @@
+Linters Used are VSCode extensions.
+
+-HTMLHint
+-Stylelint

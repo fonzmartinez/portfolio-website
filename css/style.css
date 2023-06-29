@@ -72,6 +72,7 @@ button:hover, button:focus,
     color: var(--white);
 }
 
+/* Photo on Home Page*/
 .profile_portrait {
     float: left;
     width: 250px;

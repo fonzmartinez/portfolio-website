@@ -140,20 +140,33 @@ button:hover, button:focus,
 .git_icon {
   display: inline-block;
   justify-content: center;
-  width: 70px;
+  width: 70px; 
   height: 70px;
   padding-left: 20px;
-
 }
 
 .linkedin_icon {
   display: inline-block;
-  margin: auto;
   justify-content: center;
   width: 70px;
   height: 70px;
-  padding-block: 10px;
-  padding-right: 10px;
+  padding-left: 20px;
+}
+
+.twitter_icon {
+  display: inline-block;
+  justify-content: center;
+  width: 70px;
+  height: 70px;
+  padding-left: 20px;
+}
+
+.medium_icon {
+  display: inline-block;
+  justify-content: center;
+  width: 70px;
+  height: 70px;
+  padding-left: 20px;
 }
 
 .page-header {
